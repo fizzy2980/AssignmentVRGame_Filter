@@ -1,0 +1,156 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Luxury Leather Watch",
+      "mainCategory": "Watches",
+      "subCategory": "Mens",
+      "price": 199.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4795/4795378.png"
+    },
+    {
+      "id": 2,
+      "name": "Classic Gold Watch",
+      "mainCategory": "Watches",
+      "subCategory": "Women",
+      "price": 249.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4795/4795378.png"
+    },
+    {
+      "id": 3,
+      "name": "Cartoon Themed Kids Watch",
+      "mainCategory": "Watches",
+      "subCategory": "Kids",
+      "price": 49.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4795/4795378.png"
+    },
+    {
+      "id": 4,
+      "name": "Gold Chain Bracelet",
+      "mainCategory": "Jewellery",
+      "subCategory": "Mens",
+      "price": 149.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/7157/7157499.png"
+    },
+    {
+      "id": 5,
+      "name": "Diamond Necklace",
+      "mainCategory": "Jewellery",
+      "subCategory": "Women",
+      "price": 599.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/7157/7157499.png"
+    },
+    {
+      "id": 6,
+      "name": "Kids Charm Bracelet",
+      "mainCategory": "Jewellery",
+      "subCategory": "Kids",
+      "price": 79.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/7157/7157499.png"
+    },
+    {
+      "id": 7,
+      "name": "Leather Messenger Bag",
+      "mainCategory": "Bags",
+      "subCategory": "Mens",
+      "price": 129.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/2467/2467001.png"
+    },
+    {
+      "id": 8,
+      "name": "Designer Handbag",
+      "mainCategory": "Bags",
+      "subCategory": "Women",
+      "price": 299.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/2467/2467001.png"
+    },
+    {
+      "id": 9,
+      "name": "School Backpack",
+      "mainCategory": "Bags",
+      "subCategory": "Kids",
+      "price": 89.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/2467/2467001.png"
+    },
+    {
+      "id": 10,
+      "name": "Samsung Galaxy S22",
+      "mainCategory": "Mobiles",
+      "subCategory": "Android",
+      "price": 799.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/1023/1023009.png"
+    },
+    {
+      "id": 11,
+      "name": "iPhone 14",
+      "mainCategory": "Mobiles",
+      "subCategory": "iOS",
+      "price": 999.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/1023/1023009.png"
+    },
+    {
+      "id": 12,
+      "name": "Nokia 3310",
+      "mainCategory": "Mobiles",
+      "subCategory": "Feature Phones",
+      "price": 49.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/1023/1023009.png"
+    },
+    {
+      "id": 13,
+      "name": "Dell XPS 15",
+      "mainCategory": "Laptops",
+      "subCategory": "Windows",
+      "price": 1299.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/1023/1023009.png"
+    },
+    {
+      "id": 14,
+      "name": "MacBook Pro 14",
+      "mainCategory": "Laptops",
+      "subCategory": "Mac",
+      "price": 1999.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/1023/1023009.png"
+    },
+    {
+      "id": 15,
+      "name": "Alienware Gaming Laptop",
+      "mainCategory": "Laptops",
+      "subCategory": "Gaming",
+      "price": 2499.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/1023/1023009.png"
+    },
+    {
+      "id": 16,
+      "name": "Running Sneakers",
+      "mainCategory": "Shoes",
+      "subCategory": "Mens",
+      "price": 149.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4966/4966672.png"
+    },
+    {
+      "id": 17,
+      "name": "Elegant Heels",
+      "mainCategory": "Shoes",
+      "subCategory": "Women",
+      "price": 199.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4966/4966672.png"
+    },
+    {
+      "id": 18,
+      "name": "Light-up Sneakers",
+      "mainCategory": "Shoes",
+      "subCategory": "Kids",
+      "price": 99.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4966/4966672.png"
+    },
+    {
+      "id": 19,
+      "name": "School Backpack 2",
+      "mainCategory": "Bags",
+      "subCategory": "Kids",
+      "price": 99.99,
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/2467/2467001.png"
+    }
+  ]
+}

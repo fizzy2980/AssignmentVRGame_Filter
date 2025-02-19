@@ -1,0 +1,20 @@
+{
+  "subCategories": [
+    {
+      "name": "Mens",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/3233/3233508.png"
+    },
+    {
+      "name": "Women",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/921/921053.png"
+    },
+    {
+      "name": "Kids",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/2880/2880484.png"
+    },
+    {
+      "name": "Android",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/174/174836.png"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "mainCategory": "Watches",
+      "subCategories": [
+        "Mens",
+        "Women",
+        "Kids"
+      ],
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4795/4795378.png"
+    },
+    {
+      "mainCategory": "Jewellery",
+      "subCategories": [
+        "Mens",
+        "Women",
+        "Kids"
+      ],
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/7157/7157499.png"
+    },
+    {
+      "mainCategory": "Bags",
+      "subCategories": [
+        "Mens",
+        "Women",
+        "Kids"
+      ],
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/2467/2467001.png"
+    },
+    {
+      "mainCategory": "Mobiles",
+      "subCategories": [
+        "Android",
+        "iOS",
+        "Charger"
+      ],
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/1023/1023009.png"
+    },
+    {
+      "mainCategory": "Shoes",
+      "subCategories": [
+        "Mens",
+        "Women",
+        "Kids"
+      ],
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4966/4966672.png"
+    },
+    {
+      "mainCategory": "Clothing",
+      "subCategories": [
+        "Mens",
+        "Women",
+        "Kids"
+      ],
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/925/925072.png"
+    }
+  ]
+}
